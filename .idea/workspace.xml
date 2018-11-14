@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7b8f1da-62eb-42fe-a025-7b496564190c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/css/bootstrap-datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/css/bootstrap-datepicker.standalone.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/css/bootstrap-datepicker.standalone.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.standalone.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.standalone.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/js/bootstrap-datepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.az.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.bg.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.bs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ca.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.cs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.cy.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.da.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.de.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.el.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.en-GB.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.eo.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.es.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.et.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.eu.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.fa.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.fi.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.fo.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.fr-CH.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.fr.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.gl.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.he.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.hr.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.hu.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.hy.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.id.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.is.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.it-CH.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.it.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ja.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ka.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.kh.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.kk.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ko.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.kr.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.lt.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.lv.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.me.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.mk.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.mn.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ms.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.nb.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.nl-BE.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.nl.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.no.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.pl.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.pt-BR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.pt.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ro.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.rs-latin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.rs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ru.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.sk.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.sl.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.sq.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.sr-latin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.sr.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.sv.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.sw.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.th.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.tr.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.uk.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.vi.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-TW.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-editable/CHANGELOG.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-editable/LICENSE-MIT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-editable/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-editable/bootstrap-editable/css/bootstrap-editable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-editable/bootstrap-editable/img/clear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-editable/bootstrap-editable/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-editable/bootstrap-editable/js/bootstrap-editable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-editable/bootstrap-editable/js/bootstrap-editable.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-editable/inputs-ext/address/address.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-editable/inputs-ext/address/address.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-editable/inputs-ext/wysihtml5/bootstrap-wysihtml5-0.0.2/bootstrap-wysihtml5-0.0.2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-editable/inputs-ext/wysihtml5/bootstrap-wysihtml5-0.0.2/bootstrap-wysihtml5-0.0.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-editable/inputs-ext/wysihtml5/bootstrap-wysihtml5-0.0.2/bootstrap-wysihtml5-0.0.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-editable/inputs-ext/wysihtml5/bootstrap-wysihtml5-0.0.2/wysihtml5-0.3.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-editable/inputs-ext/wysihtml5/bootstrap-wysihtml5-0.0.2/wysihtml5-0.3.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-editable/inputs-ext/wysihtml5/bootstrap-wysihtml5-0.0.2/wysiwyg-color.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-editable/inputs-ext/wysihtml5/wysihtml5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-fileinput/bootstrap-fileinput.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-fileinput/bootstrap-fileinput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-markdown/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-markdown/css/bootstrap-markdown.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-markdown/js/bootstrap-markdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-markdown/less/bootstrap-markdown.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-markdown/lib/markdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-markdown/locale/bootstrap-markdown.ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-markdown/locale/bootstrap-markdown.cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-markdown/locale/bootstrap-markdown.da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-markdown/locale/bootstrap-markdown.de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-markdown/locale/bootstrap-markdown.es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-markdown/locale/bootstrap-markdown.fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-markdown/locale/bootstrap-markdown.ja.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-markdown/locale/bootstrap-markdown.kr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-markdown/locale/bootstrap-markdown.nb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-markdown/locale/bootstrap-markdown.nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-markdown/locale/bootstrap-markdown.pl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-markdown/locale/bootstrap-markdown.ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-markdown/locale/bootstrap-markdown.sl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-markdown/locale/bootstrap-markdown.sv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-markdown/locale/bootstrap-markdown.tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-markdown/locale/bootstrap-markdown.ua.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-markdown/locale/bootstrap-markdown.zh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-markdown/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-maxlength/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-maxlength/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-maxlength/bootstrap-maxlength.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-maxlength/bootstrap-maxlength.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-pwstrength/GPL-LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-pwstrength/MIT-LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-pwstrength/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-pwstrength/pwstrength-bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/font/summernote.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/font/summernote.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/font/summernote.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-cs-CZ.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-cs-CZ.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-da-DK.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-da-DK.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-de-DE.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-de-DE.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-es-ES.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-es-ES.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-es-EU.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-fa-IR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-fa-IR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-fi-FI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-fi-FI.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-fr-FR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-he-IL.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-hu-HU.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-hu-HU.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-id-ID.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-id-ID.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-ja-JP.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-ko-KR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-nb-NO.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-nl-NL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-pl-PL.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-pt-BR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-pt-BR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-pt-PT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-pt-PT.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-ro-RO.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-ru-RU.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-sk-SK.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-sk-SK.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-sl-SI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-sr-RS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-sr-RS.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-sv-SE.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-th-TH.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-tr-TR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-tr-TR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-uk-UA.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-uk-UA.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-vi-VN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-vi-VN.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-zh-CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-zh-CN.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/lang/summernote-zh-TW.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/summernote.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/summernote.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-summernote/summernote.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-tagsinput/dist/angular.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-tagsinput/dist/bootstrap-tagsinput-angular.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-tagsinput/dist/bootstrap-tagsinput-angular.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-tagsinput/dist/bootstrap-tagsinput-typeahead.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-tagsinput/dist/bootstrap-tagsinput.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-tagsinput/dist/bootstrap-tagsinput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-tagsinput/dist/bootstrap-tagsinput.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-tagsinput/dist/typeahead.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-touchspin/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-touchspin/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-touchspin/bootstrap.touchspin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-touchspin/bootstrap.touchspin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-touchspin/bootstrap.touchspin.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-touchspin/bootstrap.touchspin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-typeahead/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-typeahead/bootstrap3-typeahead.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/bootstrap-wysihtml5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/bootstrap-wysihtml5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/locales/bootstrap-wysihtml5.ar-AR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/locales/bootstrap-wysihtml5.bg-BG.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/locales/bootstrap-wysihtml5.ca-CT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/locales/bootstrap-wysihtml5.cs-CZ.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/locales/bootstrap-wysihtml5.da-DK.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/locales/bootstrap-wysihtml5.de-DE.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/locales/bootstrap-wysihtml5.el-GR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/locales/bootstrap-wysihtml5.es-AR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/locales/bootstrap-wysihtml5.es-ES.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/locales/bootstrap-wysihtml5.fr-FR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/locales/bootstrap-wysihtml5.hr-HR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/locales/bootstrap-wysihtml5.it-IT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/locales/bootstrap-wysihtml5.ja-JP.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/locales/bootstrap-wysihtml5.ko-KR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/locales/bootstrap-wysihtml5.lt-LT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/locales/bootstrap-wysihtml5.mo-MD.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/locales/bootstrap-wysihtml5.nb-NB.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/locales/bootstrap-wysihtml5.nl-NL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/locales/bootstrap-wysihtml5.pl-PL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/locales/bootstrap-wysihtml5.pt-BR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/locales/bootstrap-wysihtml5.ru-RU.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/locales/bootstrap-wysihtml5.sk-SK.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/locales/bootstrap-wysihtml5.sv-SE.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/locales/bootstrap-wysihtml5.tr-TR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/locales/bootstrap-wysihtml5.ua-UA.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/locales/bootstrap-wysihtml5.zh-CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/locales/bootstrap-wysihtml5.zh-TW.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/wysihtml5-0.3.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-wysihtml5/wysiwyg-color.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/horizontal-timeline/horozontal-timeline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/horizontal-timeline/horozontal-timeline.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-easypiechart/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-easypiechart/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-easypiechart/angular.easypiechart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-easypiechart/angular.easypiechart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-easypiechart/jquery.easypiechart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-easypiechart/jquery.easypiechart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/blueimp-gallery/blueimp-gallery.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/blueimp-gallery/jquery.blueimp-gallery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/cors/postmessage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/cors/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/css/demo-ie8.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/css/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/css/jquery.fileupload-noscript.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/css/jquery.fileupload-ui-noscript.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/css/jquery.fileupload-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/css/jquery.fileupload.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/img/progressbar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/js/cors/jquery.postmessage-transport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/js/cors/jquery.xdr-transport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/js/jquery.fileupload-angular.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/js/jquery.fileupload-audio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/js/jquery.fileupload-image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/js/jquery.fileupload-jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/js/jquery.fileupload-process.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/js/jquery.fileupload-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/js/jquery.fileupload-validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/js/jquery.fileupload-video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/js/jquery.fileupload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/js/jquery.iframe-transport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/js/vendor/canvas-to-blob.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/js/vendor/jquery.ui.widget.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/js/vendor/load-image.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-file-upload/js/vendor/tmpl.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-idle-timeout/README.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-idle-timeout/jquery.idletimeout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-idle-timeout/jquery.idletimer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-multi-select/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-multi-select/README.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-multi-select/css/multi-select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-multi-select/img/switch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-multi-select/img/switch_original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-multi-select/js/jquery.multi-select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_bg.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_bn_BD.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_bn_BD.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_ca.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_cs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_da.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_de.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_el.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_es.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_es_AR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_et.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_eu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_eu.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_fa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_fa.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_fi.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_fr.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_ge.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_ge.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_gl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_gl.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_he.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_he.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_hr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_hr.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_hu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_hy_AM.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_is.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_is.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_it.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_ja.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_ja.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_ka.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_ka.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_kk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_kk.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_ko.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_lt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_lv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_my.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_my.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_nl.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_no.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_no.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_pl.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_pt_BR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_pt_BR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_pt_PT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_ro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_ro.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_ru.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_si.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_si.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_sk.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_sl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_sl.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_sr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_sr.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_sr_lat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_sr_lat.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_sv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_sv.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_th.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_tj.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_uk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_uk.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_vi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_vi.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_zh.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_zh_TW.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/messages_zh_TW.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/methods_de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/methods_de.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/methods_es_CL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/methods_fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/methods_fi.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/methods_nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/methods_pt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/jquery-validation/js/localization/methods_pt.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/simple-line-icons/License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/simple-line-icons/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/simple-line-icons/fonts/Simple-Line-Icons.dev.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/simple-line-icons/fonts/Simple-Line-Icons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/simple-line-icons/fonts/Simple-Line-Icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/simple-line-icons/fonts/Simple-Line-Icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/simple-line-icons/fonts/Simple-Line-Icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/simple-line-icons/icons-lte-ie7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/simple-line-icons/simple-line-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/global/plugins/simple-line-icons/simple-line-icons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/assets/sass/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/lang/en/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/lang/en/pagination.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/lang/en/passwords.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/lang/en/validation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/adsNetwork/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/adwordsAccount/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/cpi/report.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/cps/campaign.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/cps/report.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/cps/reportClick.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/cps/reportRevenue.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/layout.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/publisherAccount/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/tracking.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/trafficSource/index.blade.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/public_html/composer.json</pharConfigPath>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1482568249">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/global/plugins/bootstrap-markdown/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/public_html/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/public_html/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/public_html/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/public_html/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/public_html/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/public_html/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/public_html/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/public_html/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/public_html/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/public_html/vendor/mobiledetect/mobiledetectlib" />
+      <path value="$PROJECT_DIR$/public_html/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/public_html/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/public_html/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/public_html/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/public_html/vendor/classpreloader/classpreloader" />
+      <path value="$PROJECT_DIR$/public_html/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/public_html/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/public_html/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/public_html/vendor/laravelcollective/html" />
+      <path value="$PROJECT_DIR$/public_html/vendor/mtdowling/cron-expression" />
+      <path value="$PROJECT_DIR$/public_html/vendor/predis/predis" />
+      <path value="$PROJECT_DIR$/public_html/vendor/composer" />
+      <path value="$PROJECT_DIR$/public_html/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/public_html/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/public_html/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/public_html/vendor/illuminate/html" />
+      <path value="$PROJECT_DIR$/public_html/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/public_html/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/public_html/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/public_html/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/public_html/vendor/jenssegers/agent" />
+      <path value="$PROJECT_DIR$/public_html/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/public_html/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/public_html/vendor/jeremeamia/SuperClosure" />
+      <path value="$PROJECT_DIR$/public_html/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/public_html/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/public_html/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/public_html/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/public_html/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/public_html/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/public_html/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/public_html/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/public_html/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/public_html/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/public_html/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/public_html/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/public_html/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/public_html/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/public_html/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/public_html/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/public_html/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/public_html/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/public_html/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/public_html/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/public_html/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/public_html/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/public_html/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/public_html/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/public_html/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/public_html/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/public_html/vendor/ixudra/curl" />
+      <path value="$PROJECT_DIR$/public_html/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/public_html/vendor/hamcrest/hamcrest-php" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fix-gtrackings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fix-gtrackings" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7b8f1da-62eb-42fe-a025-7b496564190c" name="Default Changelist" comment="" />
+      <created>1542166827214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542166827214</updated>
+      <workItem from="1542166828594" duration="528000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="528000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
